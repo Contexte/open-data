@@ -16,8 +16,8 @@ About the columns:
 About the columns:
 * First section is the list of the political groups active at the European Parliament, name_ep is the denomatination used on EP’s website and feeds.
 * Second section is the list of all EU countries (including United Kingdom), code is the ISO 3-digit country code.
-# Third section is the list of electoral colleges used for the election of Belgian MEPs.
-# Fourth section is the list of political positions used in the main list.	
+* Third section is the list of electoral colleges used for the election of Belgian MEPs.
+* Fourth section is the list of political positions used in the main list.	
 
 ## License
 
