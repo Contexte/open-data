@@ -1,6 +1,6 @@
 # List of national parties in the European Union
 
-This list of 300+ European parties was set up by the Paris-based news outlet [Contexte](http://www.contexte.com), a trusted source of independent reporting on French and EU policies. Initial version was prepared by Jean-Sébastien Lefebvre in Brussels, with the help of Yann Guégan in Paris.	
+This list of 480+ European parties was set up by the Paris-based news outlet [Contexte](http://www.contexte.com), a trusted source of independent reporting on French and EU policies. Initial version was prepared by Jean-Sébastien Lefebvre in Brussels, with the help of Yann Guégan in Paris.	
 
 The data is primarly used to generate [Contexte’s dashboard on the 2019 European Parliament elections](https://www.contexte.com/article/pouvoirs/elections-europeennes-le-tableau-de-bord-de-contexte_93297.html).	
 
