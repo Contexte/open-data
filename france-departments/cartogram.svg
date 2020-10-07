@@ -1,0 +1,1003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2023px" height="1918px" viewBox="0 0 2023 1918" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>cartogram</title>
+    <desc>Created with Sketch.</desc>
+    <g id="cartogram" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <rect fill="#FFFFFF" x="0" y="0" width="2023" height="1918"></rect>
+        <g id="labels" transform="translate(35.000000, 0.000000)" fill="#444444" font-family="AdelleSans-Semibold, Adelle Sans" font-size="30" font-weight="500">
+            <g id="Île-de-France" transform="translate(128.000000, 0.000000)">
+                <text id="ÎLE-DE-FRANCE">
+                    <tspan x="0" y="29">ÎLE-DE-FRANCE</tspan>
+                </text>
+            </g>
+            <g id="Outremer" transform="translate(0.000000, 794.000000)">
+                <text id="OUTREMER">
+                    <tspan x="0" y="29">OUTREMER</tspan>
+                </text>
+            </g>
+            <g id="Hors-de-France" transform="translate(251.000000, 1859.000000)">
+                <text id="HORS-DE-FRANCE">
+                    <tspan x="0" y="29">HORS DE FRANCE</tspan>
+                </text>
+            </g>
+        </g>
+        <g id="Outremer" transform="translate(0.000000, 850.000000)">
+            <g id="988---Nouvelle-Calédonie" transform="translate(0.000000, 284.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="988" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">988</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="987---Polynésie-française" transform="translate(124.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="987" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">987</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="986---Wallis-et-Futuna" transform="translate(124.000000, 639.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="986" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">986</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="977---Saint-Martin-et-Saint-Barthélemy" transform="translate(124.000000, 355.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="977" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">977</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="976---Mayotte" transform="translate(0.000000, 568.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="976" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">976</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="975---Saint-Pierre-et-Miquelon" transform="translate(0.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="975" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">975</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="974---La-Réunion" transform="translate(124.000000, 213.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="974" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">974</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="973---Guyane" transform="translate(124.000000, 71.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="973" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">973</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="972---Martinique" transform="translate(0.000000, 142.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="972" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">972</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="971---Guadeloupe">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="971" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">971</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Français-établis-hors-de-France" transform="translate(248.000000, 1702.000000)">
+            <g id="099---Français-de-l'étranger">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="99" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">99</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Corse" transform="translate(1858.000000, 1630.000000)">
+            <g id="02B---Haute-Corse">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="2B" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">2B</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="02A---Corse-du-Sud" transform="translate(0.000000, 142.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="2A" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">2A</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Ile-de-France" transform="translate(0.000000, 67.000000)">
+            <g id="095---Val-d'Oise" transform="translate(124.000000, 0.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="95" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">95</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="094---Val-de-Marne" transform="translate(372.000000, 142.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="94" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">94</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="093---Seine-Saint-Denis" transform="translate(372.000000, 0.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="93" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">93</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="092---Hauts-de-Seine" transform="translate(124.000000, 142.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="92" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">92</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="091---Essone" transform="translate(0.000000, 213.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="91" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">91</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="078---Yvelines" transform="translate(0.000000, 71.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="78" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">78</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="077---Seine-et-Marne" transform="translate(496.000000, 71.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="77" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">77</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="075---Paris" transform="translate(248.000000, 71.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="75" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">75</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+        <g id="Metropole-hors-IDF-et-Corse" transform="translate(248.000000, 139.000000)">
+            <g id="090---Territoire-de-Belfort" transform="translate(1360.000000, 639.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="90" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">90</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="088---Vosges" transform="translate(1236.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="88" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">88</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="087---Haute-Vienne" transform="translate(618.000000, 1065.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="87" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">87</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="086---Vienne" transform="translate(618.000000, 923.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="86" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">86</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="085---Vendée" transform="translate(370.000000, 781.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="85" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">85</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="084---Vaucluse" transform="translate(1112.000000, 1207.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="84" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">84</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="083---Var" transform="translate(1359.000000, 1349.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="83" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">83</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="082---Tarn-et-Garonne" transform="translate(618.000000, 1349.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="82" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">82</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="081---Tarn" transform="translate(741.000000, 1278.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="81" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">81</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="080---Somme" transform="translate(741.000000, 142.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="80" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">80</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="079---Deux-Sèvres" transform="translate(494.000000, 710.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="79" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">79</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="076---Seine-Maritime" transform="translate(618.000000, 213.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="76" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">76</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="074---Haute-Savoie" transform="translate(1235.000000, 852.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="74" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">74</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="073---Savoie" transform="translate(1359.000000, 923.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="73" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">73</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="072---Sarthe" transform="translate(494.000000, 568.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="72" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">72</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="071---Saône-et-Loire" transform="translate(988.000000, 710.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="71" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">71</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="070---Haute-Saône" transform="translate(1112.000000, 639.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="70" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">70</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="069---Rhône" transform="translate(1112.000000, 923.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="69" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">69</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="068---Haut-Rhin" transform="translate(1360.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="68" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">68</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="067---Bas-Rhin" transform="translate(1360.000000, 355.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="67" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">67</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="066---Pyrénées-Orientales" transform="translate(865.000000, 1491.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="66" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">66</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="065---Hautes-Pyrénées" transform="translate(371.000000, 1349.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="65" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">65</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="064---Pyrénées-Atlantiques" transform="translate(247.000000, 1278.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="64" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">64</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="063---Puy-de-Dôme" transform="translate(865.000000, 923.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="63" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">63</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="061---Orne" transform="translate(494.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="61" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">61</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="060---Oise" transform="translate(741.000000, 284.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="60" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">60</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="059---Nord" transform="translate(865.000000, 71.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="59" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">59</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="058---Nièvre" transform="translate(865.000000, 639.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="58" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">58</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="057---Moselle" transform="translate(1236.000000, 284.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="57" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">57</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="056---Morbihan" transform="translate(124.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="56" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">56</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="055---Meuse" transform="translate(1112.000000, 355.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="55" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">55</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="054---Meurthe-et-Moselle" transform="translate(1112.000000, 213.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="54" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">54</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="053---Mayenne" transform="translate(370.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <g id="000" transform="translate(41.000000, 118.000000)" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <text id="53">
+                            <tspan x="0" y="22">53</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="051---Marne" transform="translate(988.000000, 284.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="51" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">51</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="050---Manche" transform="translate(370.000000, 355.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <g id="000" transform="translate(41.000000, 118.000000)" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <text id="50">
+                            <tspan x="0" y="22">50</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+            <g id="049---Maine-et-Loire" transform="translate(370.000000, 639.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="49" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">49</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="048---Lozère" transform="translate(865.000000, 1207.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="48" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">48</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="047---Lot-et-Garonne" transform="translate(494.000000, 1136.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="47" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">47</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="046---Lot" transform="translate(618.000000, 1207.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="46" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">46</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="045---Loiret" transform="translate(741.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="45" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">45</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="044---Loire-Atlantique" transform="translate(247.000000, 568.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="44" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">44</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="043---Haute-Loire" transform="translate(988.000000, 994.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="43" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">43</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="042---Loire" transform="translate(988.000000, 852.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="42" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">42</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="041---Loir-et-Cher" transform="translate(618.000000, 639.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="41" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">41</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="040---Landes" transform="translate(371.000000, 1207.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="40" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">40</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="039---Jura" transform="translate(1236.000000, 710.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="39" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">39</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="038---Isère" transform="translate(1235.000000, 994.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="38" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">38</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="037---Indre-et-Loire" transform="translate(618.000000, 781.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="37" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">37</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="036---Indre" transform="translate(741.000000, 710.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="36" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">36</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="035---Ille-et-Vilaine" transform="translate(247.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="35" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">35</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="034---Hérault" transform="translate(865.000000, 1349.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="34" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">34</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="033---Gironde" transform="translate(371.000000, 1065.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="33" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">33</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="032---Gers" transform="translate(495.000000, 1278.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="32" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">32</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="009---Ariège" transform="translate(618.000000, 1491.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="09" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">09</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="030---Gard" transform="translate(988.000000, 1278.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="30" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">30</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="029---Finistère" transform="translate(0.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="29" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">29</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="028---Eure-et-Loir" transform="translate(618.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="28" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">28</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="027---Eure" transform="translate(618.000000, 355.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="27" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">27</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="026---Drôme" transform="translate(1112.000000, 1065.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="26" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">26</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="025---Doubs" transform="translate(1236.000000, 568.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="25" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">25</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="024---Dordogne" transform="translate(495.000000, 994.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="24" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">24</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="023---Creuse" transform="translate(741.000000, 852.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="23" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">23</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="022---Côtes-d'Armor" transform="translate(124.000000, 355.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="22" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">22</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="021---Côte-d'Or" transform="translate(988.000000, 568.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="21" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">21</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="019---Corrèze" transform="translate(741.000000, 994.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="19" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">19</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="018---Cher" transform="translate(741.000000, 568.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="18" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">18</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="017---Charente-Maritime" transform="translate(371.000000, 923.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="17" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">17</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="016---Charente" transform="translate(494.000000, 852.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="16" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">16</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="015---Cantal" transform="translate(865.000000, 1065.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="15" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">15</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="014---Calvados" transform="translate(494.000000, 284.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="14" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">14</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="013---Bouches-du-Rhône" transform="translate(1112.000000, 1349.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="13" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">13</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="012---Aveyron" transform="translate(741.000000, 1136.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="12" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">12</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="011---Aude" transform="translate(741.000000, 1420.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="11" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">11</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="010---Aube" transform="translate(988.000000, 426.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="10" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">10</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="031---Haute-Garonne" transform="translate(495.000000, 1420.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="31" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">31</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="007---Ardèche" transform="translate(988.000000, 1136.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="07" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">07</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="006---Alpes-Maritimes" transform="translate(1359.000000, 1207.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="06" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">06</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="005---Hautes-Alpes" transform="translate(1235.000000, 1136.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="05" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">05</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="004---Alpes-de-Haute-Provence" transform="translate(1235.000000, 1278.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="04" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">04</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="003--Allier" transform="translate(865.000000, 781.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="03" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">03</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="002---Aisne" transform="translate(865.000000, 213.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="02" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">02</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="001---Ain" transform="translate(1112.000000, 781.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="01" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">01</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="008---Ardennes" transform="translate(988.000000, 142.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="08" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">08</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="062---Pas-de-Calais" transform="translate(741.000000, 0.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="62" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">62</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="089---Yonne" transform="translate(865.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="89" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">89</tspan>
+                    </text>
+                </g>
+            </g>
+            <g id="052---Haute-Marne" transform="translate(1112.000000, 497.000000)">
+                <g id="department">
+                    <polygon id="hexagon" stroke="#000000" points="165 71 123.75 142 41.25 142 0 71 41.25 0 123.75 0"></polygon>
+                    <polygon id="number-bkg" fill="#000000" points="41.021628 142.254191 81.1475197 142 81.1475197 118 27 118"></polygon>
+                    <text id="52" fill="#FFFFFF" font-family="AdelleSans-Semibold, Adelle Sans" font-size="22" font-weight="500">
+                        <tspan x="41" y="140">52</tspan>
+                    </text>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
