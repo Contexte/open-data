@@ -1,11 +1,11 @@
 # Cartogram of the departments of France
 
-This cartogram featuring each French department as an hexagon was set up by the French news outlet [Contexte|http://www.contexte.com]. It is used in several datavisualisations published by this online media, such as [the results of the 2020 senatorial election|https://www.contexte.com/article/pouvoirs/senatoriales-2020-la-carte-a-ne-pas-rater_119686.html] or [a simulation of voting methods for the French legislative election|https://www.contexte.com/article/pouvoirs/quel-mode-de-scrutin-pour-les-legislatives-testez-nos-simulations_120306.html].
+This cartogram featuring each French department as an hexagon was set up by the French news outlet [Contexte](http://www.contexte.com). It is used in several datavisualisations published by this online media, such as [the results of the 2020 senatorial election](https://www.contexte.com/article/pouvoirs/senatoriales-2020-la-carte-a-ne-pas-rater_119686.html) or [a simulation of voting methods for the French legislative election](https://www.contexte.com/article/pouvoirs/quel-mode-de-scrutin-pour-les-legislatives-testez-nos-simulations_120306.html).
 
 ## Files
 
-* PNG version (2500px x 2370px, white background)
-* SVG version   
+* [PNG version](https://github.com/Contexte/open-data/blob/master/france-departments/cartogram.png) (2500px x 2370px, white background)
+* [SVG version](https://github.com/Contexte/open-data/blob/master/france-departments/cartogram.svg)   
 
 ## License
 
