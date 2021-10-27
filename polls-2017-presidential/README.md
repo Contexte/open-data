@@ -4,8 +4,8 @@ This dataset is a list of 240 polls conducted by various pollsters prior to the 
 
 ## Files
 
-* [Polls](https://google.com) 
-* [Candidates](https://google.com)   
+* [Polls](https://github.com/Contexte/open-data/blob/master/polls-2017-presidential/polls.csv) 
+* [Candidates](https://github.com/Contexte/open-data/blob/master/polls-2017-presidential/candidates.csv)   
 
 ## License
 
