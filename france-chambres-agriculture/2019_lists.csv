@@ -1,0 +1,307 @@
+Chambre,Liste,Score,Sièges,Nb voix
+Morbihan,FNSEA-JA,49.22,14.0,1429.0
+Morbihan,Confédération paysanne,25.9,2.0,752.0
+Morbihan,Coordination rurale,24.87,2.0,722.0
+Vendée,FNSEA-JA,57.17,14.0,1854.0
+Vendée,Coordination rurale,27.47,3.0,891.0
+Vendée,Confédération paysanne,15.36,1.0,498.0
+Aude,FNSEA-JA,56.03,14.0,1221.0
+Aude,Confédération paysanne,24.6,2.0,536.0
+Aude,Coordination rurale,19.37,2.0,422.0
+Vaucluse,FNSEA-JA,61.29,14.0,1129.0
+Vaucluse,Confédération paysanne,18.08,2.0,333.0
+Vaucluse,Modef,14.06,1.0,259.0
+Vaucluse,Coordination rurale,6.57,1.0,121.0
+Haute-Marne,FNSEA-JA,64.86,15.0,814.0
+Haute-Marne,Confédération paysanne,20.24,2.0,254.0
+Haute-Marne,Coordination rurale,14.9,1.0,187.0
+Marne,FNSEA-JA,79.01,16.0,2932.0
+Marne,Coordination rurale,13.77,1.0,511.0
+Marne,Confédération paysanne,7.22,1.0,268.0
+Nord,FNSEA-JA,66.89,15.0,2085.0
+Nord,Coordination rurale,20.56,2.0,641.0
+Nord,Confédération paysanne,12.54,1.0,391.0
+Hautes-Pyrénées,FNSEA-JA,57.03,14.0,986.0
+Hautes-Pyrénées,Coordination rurale,29.55,3.0,511.0
+Hautes-Pyrénées,Confédération paysanne,13.42,1.0,232.0
+Indre,FNSEA-JA,55.08,14.0,922.0
+Indre,Coordination rurale,24.85,2.0,416.0
+Indre,Confédération paysanne,20.07,2.0,336.0
+Vienne,Coordination rurale,40.71,13.0,734.0
+Vienne,FNSEA-JA,38.16,3.0,688.0
+Vienne,Confédération paysanne,21.13,2.0,381.0
+Dordogne,FNSEA-JA,47.27,13.0,1283.0
+Dordogne,Coordination rurale,29.07,3.0,789.0
+Dordogne,Confédération paysanne,23.66,2.0,642.0
+Charente-Maritime,FNSEA-JA,47.06,13.0,922.0
+Charente-Maritime,Coordination rurale,29.1,3.0,570.0
+Charente-Maritime,Confédération paysanne,15.93,1.0,312.0
+Charente-Maritime,Modef,7.91,1.0,155.0
+Alpes-Maritimes,FNSEA-JA,71.85,15.0,508.0
+Alpes-Maritimes,Confédération paysanne,28.15,3.0,199.0
+Var,FNSEA,32.74,12.0,534.0
+Var,JA,26.79,2.0,437.0
+Var,Confédération paysanne,24.22,2.0,395.0
+Var,Coordination rurale,16.25,2.0,265.0
+Alpes-de-Haute-Provence,FNSEA-JA,63.69,15.0,770.0
+Alpes-de-Haute-Provence,Confédération paysanne,36.31,3.0,439.0
+Ain,FNSEA-JA,52.04,14.0,791.0
+Ain,Confédération paysanne,33.29,3.0,506.0
+Ain,Coordination rurale,14.67,1.0,223.0
+Aisne,FNSEA-JA,72.68,15.0,1881.0
+Aisne,Coordination rurale,18.32,2.0,474.0
+Aisne,Confédération paysanne,9.0,1.0,233.0
+Bouches-du-Rhône,FNSEA-JA,63.14,15.0,817.0
+Bouches-du-Rhône,Confédération paysanne,22.57,2.0,292.0
+Bouches-du-Rhône,Coordination rurale,14.3,1.0,185.0
+Aveyron,FNSEA-JA,56.19,14.0,2761.0
+Aveyron,Confédération paysanne,25.54,2.0,1255.0
+Aveyron,Coordination rurale,18.27,2.0,898.0
+Gard,FNSEA-JA,53.2,14.0,963.0
+Gard,Confédération paysanne,18.9,2.0,342.0
+Gard,Coordination rurale,17.68,1.0,320.0
+Gard,Modef,10.22,1.0,185.0
+Aube,FNSEA-JA-SGV,72.25,16.0,1390.0
+Aube,Coordination rurale,14.97,1.0,288.0
+Aube,Confédération paysanne,12.79,1.0,246.0
+Côte-d’Or,FNSEA-JA,63.76,15.0,1293.0
+Côte-d’Or,Coordination rurale,18.2,2.0,369.0
+Côte-d’Or,Confédération paysanne,18.05,1.0,366.0
+Saône-et-Loire,FNSEA-JA,61.96,15.0,1660.0
+Saône-et-Loire,Coordination rurale,21.31,2.0,571.0
+Saône-et-Loire,Confédération paysanne,16.72,1.0,448.0
+Cher,FNSEA-JA,56.95,14.0,799.0
+Cher,Coordination rurale,29.51,3.0,414.0
+Cher,Confédération paysanne,13.54,1.0,190.0
+Creuse,FNSEA-JA,67.12,15.0,1178.0
+Creuse,Confédération paysanne,12.19,1.0,214.0
+Creuse,Coordination rurale,10.48,1.0,184.0
+Creuse,Modef,10.2,1.0,179.0
+Maine-et-Loire,FNSEA-JA,52.0,14.0,1727.0
+Maine-et-Loire,Coordination rurale,29.33,2.0,974.0
+Maine-et-Loire,Confédération paysanne,18.67,2.0,620.0
+Deux-Sèvres,FNSEA-JA,52.72,14.0,1279.0
+Deux-Sèvres,Confédération paysanne,23.83,2.0,578.0
+Deux-Sèvres,Coordination rurale,23.45,2.0,569.0
+Charente,FNSEA-JA,41.34,13.0,842.0
+Charente,Coordination rurale,39.86,4.0,812.0
+Charente,Confédération paysanne,12.67,1.0,258.0
+Charente,Modef,6.14,0.0,125.0
+Drôme,FNSEA-JA,48.17,13.0,1037.0
+Drôme,Confédération paysanne,24.85,2.0,535.0
+Drôme,Coordination rurale,19.97,2.0,430.0
+Drôme,Modef,7.01,1.0,151.0
+Ardèche,FNSEA-JA,48.54,14.0,934.0
+Ardèche,Confédération paysanne,36.9,3.0,710.0
+Ardèche,Coordination rurale,14.55,1.0,280.0
+Eure,FNSEA-JA,65.18,15.0,966.0
+Eure,Coordination rurale,20.45,2.0,303.0
+Eure,Confédération paysanne,14.37,1.0,213.0
+Eure-et-Loir,FNSEA-JA,65.14,15.0,1321.0
+Eure-et-Loir,Coordination rurale,21.45,2.0,435.0
+Eure-et-Loir,Confédération paysanne,13.41,1.0,272.0
+Haute-Garonne,JA,38.68,13.0,926.0
+Haute-Garonne,FNSEA,34.88,3.0,835.0
+Haute-Garonne,Union Confédération paysanne - Coordination rurale,26.44,2.0,633.0
+Haute-Vienne,Coordination rurale,47.94,13.0,909.0
+Haute-Vienne,FNSEA-JA,35.92,3.0,681.0
+Haute-Vienne,Confédération paysanne,16.14,2.0,306.0
+Sarthe,FNSEA-JA,61.89,14.0,1140.0
+Sarthe,Coordination rurale,24.05,2.0,443.0
+Sarthe,Confédération paysanne,14.06,1.0,259.0
+Indre-et-Loire,FNSEA-JA,50.33,14.0,912.0
+Indre-et-Loire,Coordination rurale,34.16,3.0,619.0
+Indre-et-Loire,Confédération paysanne,15.51,1.0,281.0
+Isère,FNSEA-JA,51.68,14.0,1045.0
+Isère,Confédération paysanne,25.52,2.0,516.0
+Isère,Coordination rurale,22.8,2.0,461.0
+Jura,FNSEA-JA,54.65,14.0,717.0
+Jura,Confédération paysanne,25.69,2.0,337.0
+Jura,Coordination rurale,19.66,2.0,258.0
+Haute-Saône,FNSEA-JA,68.91,15.0,1002.0
+Haute-Saône,Confédération paysanne,17.26,2.0,251.0
+Haute-Saône,Coordination rurale,13.82,1.0,201.0
+Loire,FNSEA-JA,58.16,14.0,1458.0
+Loire,Confédération paysanne,27.12,3.0,680.0
+Loire,Coordination rurale,14.72,1.0,369.0
+Tarn-et-Garonne,FNSEA-JA,63.23,15.0,1228.0
+Tarn-et-Garonne,Confédération paysanne,20.29,2.0,394.0
+Tarn-et-Garonne,Coordination rurale,16.48,1.0,320.0
+Lot,FNSEA-JA,61.67,15.0,1326.0
+Lot,Confédération paysanne,18.37,2.0,395.0
+Lot,Coordination rurale,15.21,1.0,327.0
+Lot,Modef,4.74,0.0,102.0
+Lot-et-Garonne,Coordination rurale,59.67,14.0,1759.0
+Lot-et-Garonne,FNSEA-JA,24.59,2.0,725.0
+Lot-et-Garonne,Confédération paysanne,9.91,1.0,292.0
+Lot-et-Garonne,Modef,5.83,1.0,172.0
+Lozère,FNSEA-JA,52.28,14.0,1045.0
+Lozère,Coordination rurale,27.06,2.0,541.0
+Lozère,Confédération paysanne,15.46,1.0,309.0
+Lozère,Modef,5.2,1.0,104.0
+Ille-et-Vilaine,FNSEA-JA,47.06,13.0,1831.0
+Ille-et-Vilaine,Coordination rurale,29.71,3.0,1156.0
+Ille-et-Vilaine,Confédération paysanne,23.23,2.0,904.0
+Meurthe-et-Moselle,FNSEA-JA,61.48,14.0,766.0
+Meurthe-et-Moselle,Coordination rurale,20.14,2.0,251.0
+Meurthe-et-Moselle,Confédération paysanne,18.38,2.0,229.0
+Meuse,FNSEA-JA,50.07,13.0,692.0
+Meuse,Coordination rurale,32.56,3.0,450.0
+Meuse,Confédération paysanne,17.37,2.0,240.0
+Nièvre,FNSEA-JA,57.16,14.0,786.0
+Nièvre,Coordination rurale,22.55,2.0,310.0
+Nièvre,Confédération paysanne,20.29,2.0,279.0
+Corrèze,FNSEA-JA,46.45,13.0,967.0
+Corrèze,Coordination rurale,25.02,2.0,521.0
+Corrèze,Confédération paysanne,16.14,2.0,336.0
+Corrèze,Modef,12.39,1.0,258.0
+Puy-de-Dôme,FNSEA-JA,48.63,13.0,1688.0
+Puy-de-Dôme,Union Confédération paysanne - Coordination rurale,40.51,4.0,1406.0
+Puy-de-Dôme,Modef,10.86,1.0,377.0
+Gers,FNSEA-JA,46.95,13.0,1361.0
+Gers,Coordination rurale,28.98,3.0,840.0
+Gers,Confédération paysanne,17.42,1.0,505.0
+Gers,Modef,6.66,1.0,193.0
+Pyrénées-Atlantiques,FNSEA-JA,53.98,14.0,2825.0
+Pyrénées-Atlantiques,Autres listes,24.21,2.0,1267.0
+Pyrénées-Atlantiques,Confédération paysanne,13.19,1.0,690.0
+Pyrénées-Atlantiques,Coordination rurale,8.62,1.0,451.0
+Savoie,FNSEA-JA,57.6,21.0,1432.0
+Savoie,Confédération paysanne,23.57,3.0,586.0
+Savoie,Coordination rurale,18.83,3.0,468.0
+Somme,FNSEA-JA,67.53,15.0,1803.0
+Somme,Coordination rurale,25.99,2.0,694.0
+Somme,Confédération paysanne,6.48,1.0,173.0
+Territoire de Belfort,FNSEA-JA,74.23,5.0,121.0
+Territoire de Belfort,Coordination rurale,25.77,1.0,42.0
+Doubs,FNSEA-JA,61.72,15.0,1251.0
+Doubs,Confédération paysanne,21.51,2.0,436.0
+Doubs,Coordination rurale,16.77,1.0,340.0
+Vosges,FNSEA-JA,56.34,14.0,817.0
+Vosges,Coordination rurale,22.9,2.0,332.0
+Vosges,Confédération paysanne,20.76,2.0,301.0
+Loir-et-Cher,FNSEA-JA,58.81,14.0,868.0
+Loir-et-Cher,Coordination rurale,24.59,2.0,363.0
+Loir-et-Cher,Confédération paysanne,16.6,2.0,245.0
+Finistère,FNSEA-JA,49.01,13.0,2002.0
+Finistère,Coordination rurale,34.49,3.0,1409.0
+Finistère,Confédération paysanne,16.5,2.0,674.0
+Manche,FNSEA-JA,49.72,14.0,1436.0
+Manche,Coordination rurale,26.21,2.0,757.0
+Manche,Confédération paysanne,24.07,2.0,695.0
+Ardennes,FNSEA-JA,59.94,14.0,826.0
+Ardennes,Coordination rurale,26.71,3.0,368.0
+Ardennes,Confédération paysanne,13.35,1.0,184.0
+Ariège,FNSEA-JA,54.05,14.0,815.0
+Ariège,Confédération paysanne,38.79,3.0,585.0
+Ariège,Coordination rurale,7.16,1.0,108.0
+Bas-Rhin,FNSEA-JA,63.54,15.0,1570.0
+Bas-Rhin,Coordination rurale,23.92,2.0,591.0
+Bas-Rhin,Confédération paysanne,12.55,1.0,310.0
+Calvados,FNSEA-JA,47.1,13.0,974.0
+Calvados,Coordination rurale,35.4,3.0,732.0
+Calvados,Confédération paysanne,17.5,2.0,362.0
+Cantal,FNSEA-JA,62.1,15.0,2035.0
+Cantal,Confédération paysanne,15.32,1.0,502.0
+Cantal,Coordination rurale,13.58,1.0,445.0
+Cantal,Autres listes,9.0,1.0,295.0
+Côtes-d’Armor,FNSEA-JA,48.91,13.0,1950.0
+Côtes-d’Armor,Coordination rurale,27.34,3.0,1090.0
+Côtes-d’Armor,Confédération paysanne,23.75,2.0,947.0
+Gironde,FNSEA-JA,60.19,15.0,1054.0
+Gironde,Confédération paysanne,25.99,2.0,455.0
+Gironde,Coordination rurale,13.82,1.0,242.0
+Haut-Rhin,FNSEA-JA-AVA,67.39,15.0,1217.0
+Haut-Rhin,Confédération paysanne,17.44,2.0,315.0
+Haut-Rhin,Coordination rurale,15.17,1.0,274.0
+Haute-Savoie,FNSEA-JA,57.6,21.0,1432.0
+Haute-Savoie,Confédération paysanne,23.57,3.0,586.0
+Haute-Savoie,Coordination rurale,18.83,3.0,468.0
+Hérault,FNSEA-JA,63.06,15.0,1560.0
+Hérault,Confédération paysanne,15.4,1.0,381.0
+Hérault,Coordination rurale,11.24,1.0,278.0
+Hérault,Modef,10.31,1.0,255.0
+Landes,FNSEA-JA,54.47,14.0,1213.0
+Landes,Union Confédération paysanne - Modef,32.82,3.0,731.0
+Landes,Coordination rurale,12.71,1.0,283.0
+Loire-Atlantique,FNSEA-JA,48.63,13.0,1983.0
+Loire-Atlantique,Confédération paysanne,38.16,4.0,1556.0
+Loire-Atlantique,Coordination rurale,13.22,1.0,539.0
+Moselle,Autres listes,36.35,12.0,747.0
+Moselle,FNSEA-JA,34.01,3.0,699.0
+Moselle,Coordination rurale,19.76,2.0,406.0
+Moselle,Confédération paysanne,9.88,1.0,203.0
+Orne,FNSEA-JA,47.59,13.0,1028.0
+Orne,Coordination rurale,27.22,3.0,588.0
+Orne,Confédération paysanne,25.19,2.0,544.0
+Pas-de-Calais,FNSEA-JA,66.64,15.0,2327.0
+Pas-de-Calais,Coordination rurale,20.82,2.0,727.0
+Pas-de-Calais,Confédération paysanne,12.54,1.0,438.0
+Pyrénées-Orientales,FNSEA-JA,57.52,14.0,677.0
+Pyrénées-Orientales,Confédération paysanne,26.0,2.0,306.0
+Pyrénées-Orientales,Coordination rurale,16.48,2.0,194.0
+Mayenne,FNSEA-JA,53.17,14.0,1483.0
+Mayenne,Confédération paysanne,27.54,2.0,768.0
+Mayenne,Coordination rurale,19.29,2.0,538.0
+Seine-Maritime,FNSEA-JA,53.91,14.0,1249.0
+Seine-Maritime,Coordination rurale,25.81,2.0,598.0
+Seine-Maritime,Confédération paysanne,20.28,2.0,470.0
+Yonne,FNSEA-JA,60.76,14.0,915.0
+Yonne,Coordination rurale,20.05,2.0,302.0
+Yonne,Confédération paysanne,19.19,2.0,289.0
+Allier,FNSEA-JA,51.17,14.0,1205.0
+Allier,FDSEA,16.99,2.0,400.0
+Allier,Coordination rurale,16.9,1.0,398.0
+Allier,Confédération paysanne,14.95,1.0,352.0
+Haute-Loire,FNSEA-JA,58.38,14.0,1362.0
+Haute-Loire,Confédération paysanne,24.09,2.0,562.0
+Haute-Loire,Coordination rurale,17.53,2.0,409.0
+Hautes-Alpes,FNSEA-JA,39.63,13.0,516.0
+Hautes-Alpes,Confédération paysanne,23.66,2.0,308.0
+Hautes-Alpes,Autres listes,19.59,2.0,255.0
+Hautes-Alpes,Coordination rurale,11.75,1.0,153.0
+Hautes-Alpes,Modef,5.38,0.0,70.0
+Loiret,FNSEA-JA,46.21,13.0,823.0
+Loiret,Autres listes,26.95,3.0,480.0
+Loiret,Coordination rurale,15.78,1.0,281.0
+Loiret,Confédération paysanne,11.06,1.0,197.0
+Oise,FNSEA-JA,71.32,15.0,1343.0
+Oise,Coordination rurale,19.07,2.0,359.0
+Oise,Confédération paysanne,9.61,1.0,181.0
+Rhône,FNSEA-JA,56.45,14.0,1256.0
+Rhône,Confédération paysanne,32.45,3.0,722.0
+Rhône,Coordination rurale,11.1,1.0,247.0
+Tarn,FNSEA-JA,50.96,14.0,1354.0
+Tarn,Coordination rurale,25.48,2.0,677.0
+Tarn,Confédération paysanne,23.56,2.0,626.0
+La Réunion,FNSEA-JA,42.52,13.0,2359.0
+La Réunion,Confédération paysanne,26.12,3.0,1449.0
+La Réunion,UPNA,23.95,2.0,1329.0
+La Réunion,Coordination rurale,3.8,0.0,211.0
+La Réunion,Modef,3.6,0.0,200.0
+Mayotte,Confédération paysanne,30.35,8.0,258.0
+Mayotte,FNSEA-JA-VGA,24.59,2.0,209.0
+Mayotte,Paysans d'ici,21.65,1.0,184.0
+Mayotte,Modef,12.71,1.0,108.0
+Mayotte,Tanafou ya Drima,6.24,0.0,53.0
+Mayotte,Coordination rurale,4.47,0.0,38.0
+Guyane,FDSEA (moins de 10 ha),27.94,4.0,266.0
+Guyane,JA (moins de 10 ha),26.89,1.0,256.0
+Guyane,Ensemble pour développer (moins de 10 ha),15.44,1.0,147.0
+Guyane,GRAGE (moins de 10ha),7.56,1.0,72.0
+Guyane,Ensemble pour développer,5.57,3.0,53.0
+Guyane,FDSEA,4.94,1.0,47.0
+Guyane,Ma Guyane agricole (moins de 10 ha),4.73,0.0,45.0
+Guyane,GRAGE,3.47,1.0,33.0
+Guyane,JA,3.47,0.0,33.0
+Martinique,Autres listes,33.72,12.0,350.0
+Martinique,FNSEA-JA,31.7,3.0,329.0
+Martinique,Confédération paysanne,27.36,2.0,284.0
+Martinique,Coordination rurale,7.23,1.0,75.0
+Guadeloupe,Union Modef-JA,30.95,12.0,980.0
+Guadeloupe,FNSEA,26.12,2.0,827.0
+Guadeloupe,Confédération paysanne,24.04,2.0,761.0
+Guadeloupe,Coordination rurale,18.89,2.0,598.0
+Île-de-France,FNSEA-JA,72.16,33.0,1962.0
+Île-de-France,Coordination rurale,19.9,4.0,541.0
+Île-de-France,Confédération paysanne,7.94,1.0,216.0
