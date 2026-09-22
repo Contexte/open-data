@@ -20,7 +20,7 @@ The data is published under the [ODbL 1.0 license](https://opendatacommons.org/l
 
 ## Attribution
 
-No attribution required.
+Any reuse must include the following statement: “Data: Contexte” with a link to [contexte.com/pollotron](https://contexte.com/pollotron).
 
 ## Contact
 
